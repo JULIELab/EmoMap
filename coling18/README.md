@@ -1,9 +1,12 @@
 # Emotion Representation Mapping: COLING 2018
 
 ## Introduction
-See README of parent folder for a higher-level overview.
+See README of parent folder for a higher-level overview. 
 
 ## Installation
+
+(If you are mainly interested in the emotion lexicons, you don't have to go through this.)
+
 1. Costumize the paths in `EmoMap/coling18/framework/constants.py`
 2. Set up the `conda` environment stored in `EmoMap/coling18/environment.yml`
 3. Navigate into `EmoMap/coling18/` and run `source activate.src`. This will activate the `conda` environment and sets a required environment variable.
