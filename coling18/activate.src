@@ -1,0 +1,2 @@
+export PYTHONPATH="$(pwd):$PYTHONPATH"
+source activate julie-coling-2018

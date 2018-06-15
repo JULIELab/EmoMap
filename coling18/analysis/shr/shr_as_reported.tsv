@@ -1,0 +1,15 @@
+Data Set	Valence	Arousal	Dominance	Joy	Anger	Sadness	Fear	Disgust	N
+Bradley and Lang 99									
+Warriner et al 13	0.914	0.689	0.77						20.0
+Stevenson et al. 07									
+Redondo et al 07									
+Ferre et al 16				0.97	0.96	0.97	0.96	0.95	30.0
+Hinojosa et al., 16	0.94	0.89	0.89	0.97	0.97	0.97	0.96	0.96	30.0
+Stadthagen et al 2017				0.86	0.88	0.9	0.89	0.85	20.0
+Stadthagen et al 2016	0.88	0.75							20.0
+Vo et al., 09									
+Briesemeister et al. 11									
+Riegel et al., 15	0.97	0.81							25.0
+Imbir et al., 17	0.973	0.841	0.868						50.0
+Wierzba et al.				0.95	0.91	0.92	0.92	0.91	25.0
+
