@@ -1,4 +1,4 @@
-# Emotion Representation Mapping
+# Emotion Representation Mapping: LREC 2018
 This repository comprises code, experimental results and language resources associated with our [LREC 2018 paper](http://www.lrec-conf.org/proceedings/lrec2018/summaries/402.html) on converting between different emotion representation formats.
 
 ## Introduction
