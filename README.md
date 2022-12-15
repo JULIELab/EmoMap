@@ -1,4 +1,8 @@
 # Emotion Representation Mapping
+
+[![DOI](https://zenodo.org/badge/121131257.svg)](https://zenodo.org/badge/latestdoi/121131257)
+
+
 This repository comprises code, experimental results and language resources associated with our [LREC 2018](http://www.lrec-conf.org/proceedings/lrec2018/summaries/402.html) and [COLING 2018](https://www.researchgate.net/publication/325794428_Emotion_Representation_Mapping_for_Automatic_Lexicon_Construction_Mostly_Performs_on_Human_Level) papers on converting between different emotion representation formats.
 
 ## Introduction
